@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@fortawesome/vue-fontawesome": "^0.1.1",
+    "bootstrap-vue": "^2.0.0-rc.11",
     "firebase": "^5.5.4",
     "moment": "^2.22.2",
     "vue": "^2.5.17",
